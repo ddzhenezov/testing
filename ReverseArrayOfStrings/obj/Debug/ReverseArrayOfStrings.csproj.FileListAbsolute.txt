@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
+C:\Users\Home\source\repos\ArraysExercise\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb
